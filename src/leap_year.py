@@ -7,4 +7,4 @@ def is_leap_year() -> bool:
         print(f"El año {year} no es bisiesto")
         return False
 
-print(is_leap_year())
+#print(is_leap_year())
